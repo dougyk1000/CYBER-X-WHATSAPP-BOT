@@ -1,6 +1,6 @@
 {
-    "name": "Cyber-X WhatsApp Bot",
-    "description": "This is a 3ʳᵈ Party Application software for WhatsApp with Many Feature & many Commands",
+    "name": "Project Steel Bot",
+    "description": "This is a 3ʳᵈ Party Application software for WhatsApp with Many Features & many Commands, enjoy!",
     "repository": "https://github.com/darkalphaxteam/CYBER-X-WHATSAPP-BOT",
     "logo": "https://telegra.ph/file/71c859102f3625d06204b.jpg",
     "keywords": [
@@ -12,7 +12,7 @@
     ],
     "env": {
         "SESSION_ID": {
-            "description": "Type the Session-ID you got from scaning QR",
+            "description": "cyber-x@;;;oVFymDBR#X6dHRoUY1P3i35BTSUKc7F_ro81s79YsPEr8bYdY1jc",
             "required": true,
             "value": ""
         },
